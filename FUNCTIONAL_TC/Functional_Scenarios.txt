@@ -1,0 +1,18 @@
+1. To check that password text field should accept 5 alphabets and 1 special characters.
+2. To check that password text field should accept 7 alphabets and 7 numbers with 1 special character.
+3. To check that password text field should accept 6 alphabets and 1 special characters.
+4. To check that password text field should not accept 5 alphabets.
+5. To check that password text field should accept 10 alphabets and 4 special characters.
+6. To check that password text field should not accept 16 alphabets.
+
+
+WhatsApp
+--------
+1.To check that when user Open the WhatsApp chat page should be displayed.
+
+
+
+
+System Scenarios:
+
+1. Open WhatsApp, go to the chats block, select one contact, create a group, add one contact to the group, send a message in the group, and close WhatsApp.
